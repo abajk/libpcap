@@ -5286,6 +5286,7 @@ static struct dsa_proto {
 	{ "dsa", DLT_DSA_TAG_DSA },
 	{ "edsa", DLT_DSA_TAG_EDSA },
 	{ "gswip", DLT_DSA_TAG_GSWIP },
+	{ "qca", DLT_EN10MB },
 };
 
 static int
